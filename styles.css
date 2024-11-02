@@ -1,0 +1,92 @@
+.button-1 {
+    padding: 10px 20px;
+    font-size: 20px;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  width: 500px;
+  text-align: left;
+}
+
+.button-1:hover {
+    background-color: #0056b3;
+}
+
+
+.buttons {
+    display: flex;
+  flex-direction: column;
+  margin: 1px;
+  padding:2px;
+  gap:4px;
+ 
+  
+}
+.button-2 {
+    padding: 10px 20px;
+    font-size: 20px;
+    color: white;
+    background-color: #B200ED;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  width: 500px;
+  text-align: left;
+}
+
+.button-2:hover {
+    background-color: #784B84;
+}
+.button-3 {
+    padding: 10px 20px;
+    font-size: 20px;
+    color: white;
+    background-color: #DB7093;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  width: 500px;
+  text-align: left;
+}
+
+.button-3:hover {
+    background-color: #C71585;
+}
+.button-4 {
+    padding: 10px 20px;
+    font-size: 20px;
+    color: white;
+    background-color: #FF7F50;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  width: 500px;
+  text-align: left;
+}
+
+.button-4:hover {
+    background-color: #FF6347;
+  
+}
+.button-5 {
+    padding: 10px 20px;
+    font-size: 20px;
+    color: white;
+    background-color: #9ACD32;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  width: 500px;
+  text-align: left;
+}
+
+.button-5:hover {
+    background-color: #6B8E23;
+}
